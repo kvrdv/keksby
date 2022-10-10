@@ -1,3 +1,2 @@
 # keksby
-
-Кошачий портал "Keksby"
+Cat web portal "Keksby"
